@@ -1,4 +1,5 @@
-#include "stdafx.h"
+
+#include "stdafx.h" //---THIS IS INCLUDED ONLY B'CAUSE IT WAS BUILD ON VISUAL STUDIO..
 #include "opencv2/objdetect.hpp"
 #include "opencv2/highgui.hpp"
 #include "opencv2/imgproc.hpp"
